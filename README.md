@@ -1,143 +1,66 @@
-<div align="center">
+<h2 data-importer="text" align="center">Olá! 👋 Sou Flávio Emanuel Leite Pinto.<br><br>💻 Engenheiro de Software<br>🚀 Desenvolvedor Full Stack<br>🤖 Entusiasta de Inteligência Artificial e Machine Learning<br>📍 Paraná, Brasil 🇧🇷</h2>
 
-# 👋 Hi there, I'm Flávio Emanuel Leite Pinto
+###
 
-### 💻 Software Engineering Student | 🤖 Machine Learning Enthusiast | 🌐 Full Stack Developer
-
-<p>
-Passionate about building intelligent software solutions using Artificial Intelligence,
-Machine Learning and modern Web Technologies.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/FlavioEmanuell/FlavioEmanuell/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-# 🚀 About Me
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHdveXl3OGYzOGQycW9semRpdWhjdm42eW96OTlhZXNzOGhnbWVtNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
-- 🎓 Software Engineering Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Developer
-- 📊 Interested in Data Science
-- 💡 Always learning and building new projects
-- 🚀 Open to internship and collaboration opportunities
+###
 
----
-
-# 🛠 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioEmanuell&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioEmanuell&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=FlavioEmanuell&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FlavioEmanuell&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📚 Featured Projects
-
-### 🤖 Machine Learning
-
-- 🚢 Titanic Survival Prediction
-- 🌲 Forest Cover Type Classification (MLP)
-
-### 🌐 Full Stack
-
-- 📦 Inventory Management System
-- 💰 Personal Finance Dashboard
-
-### 🌱 Agritech
-
-- 🐔 GreenPulse — Smart Poultry Monitoring System
-
----
-
-# 🌎 Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/FlavioEmanuell">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/flavio-emanuel">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</p>
-
----
-
-# 💭 Quote
-
-> *"The best way to predict the future is to create it."* — Alan Kay
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=FlavioEmanuell&style=for-the-badge&color=0e75b6)
-
-⭐ Thanks for visiting my profile!
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.instagram.com/flaviioleite/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/flavio-emanuel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlavioEmanuell/FlavioEmanuell/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlavioEmanuell/FlavioEmanuell/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FlavioEmanuell/FlavioEmanuell/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
